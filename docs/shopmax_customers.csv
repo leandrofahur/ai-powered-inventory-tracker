@@ -1,0 +1,1001 @@
+Customer ID,Country,Plan,Monthly Spend ($),Tenure (Months),Churned,Signup Source,Industry,Last Active Date
+CUST00001,France,Basic,24.44,19,No,Organic,Retail,2025-04-03
+CUST00002,France,Basic,31.59,53,No,Referral,Finance,2025-04-06
+CUST00003,Canada,Pro,75.31,60,No,Paid Ads,Retail,2025-04-10
+CUST00004,France,Basic,32.71,22,Yes,Organic,Technology,2025-03-29
+CUST00005,Germany,Basic,17.8,28,No,Organic,Retail,2025-04-14
+CUST00006,USA,Basic,33.02,47,No,Paid Ads,Finance,2025-04-01
+CUST00007,Australia,Basic,29.88,37,No,Organic,Technology,2025-03-29
+CUST00008,Canada,Basic,31.78,39,Yes,Partner,Finance,2025-02-28
+CUST00009,Germany,Enterprise,239.2,26,No,Referral,Retail,2025-04-07
+CUST00010,Brazil,Pro,91.19,47,No,Paid Ads,Healthcare,2025-03-16
+CUST00011,UK,Pro,76.32,17,No,Referral,Finance,2025-03-12
+CUST00012,Canada,Pro,83.76,2,No,Referral,Retail,2025-04-24
+CUST00013,USA,Basic,27.69,18,No,Partner,Retail,2025-03-28
+CUST00014,UK,Enterprise,302.0,36,No,Referral,Technology,2025-03-01
+CUST00015,UK,Enterprise,296.53,16,No,Organic,Healthcare,2025-03-22
+CUST00016,Australia,Basic,28.49,24,No,Organic,Healthcare,2025-03-13
+CUST00017,USA,Basic,24.35,15,No,Referral,Technology,2025-04-09
+CUST00018,Brazil,Basic,30.67,9,No,Referral,Technology,2025-04-21
+CUST00019,Canada,Basic,35.15,33,No,Organic,Retail,2025-04-03
+CUST00020,France,Enterprise,327.94,58,No,Paid Ads,Education,2025-04-07
+CUST00021,USA,Pro,64.92,48,No,Paid Ads,Retail,2025-04-02
+CUST00022,Germany,Pro,91.0,37,No,Referral,Healthcare,2025-03-21
+CUST00023,France,Pro,79.28,37,No,Referral,Finance,2025-03-30
+CUST00024,UK,Pro,90.04,5,No,Referral,Finance,2025-03-19
+CUST00025,France,Pro,113.72,15,No,Referral,Retail,2025-04-07
+CUST00026,Australia,Basic,25.4,51,Yes,Paid Ads,Technology,2025-03-21
+CUST00027,France,Pro,80.92,30,No,Paid Ads,Finance,2025-02-27
+CUST00028,Germany,Pro,60.12,15,No,Partner,Education,2025-03-16
+CUST00029,France,Basic,28.94,22,No,Paid Ads,Education,2025-03-31
+CUST00030,Brazil,Pro,75.73,57,No,Organic,Finance,2025-03-04
+CUST00031,Brazil,Basic,27.93,11,No,Organic,Education,2025-04-18
+CUST00032,Germany,Basic,23.01,25,No,Referral,Retail,2025-03-25
+CUST00033,Canada,Basic,28.04,52,No,Referral,Finance,2025-04-26
+CUST00034,France,Basic,22.68,6,No,Partner,Healthcare,2025-04-16
+CUST00035,France,Basic,28.02,44,No,Partner,Finance,2025-03-17
+CUST00036,UK,Basic,28.55,32,No,Paid Ads,Finance,2025-03-11
+CUST00037,France,Pro,82.58,52,No,Referral,Technology,2025-03-15
+CUST00038,Germany,Pro,79.26,3,No,Partner,Education,2025-03-14
+CUST00039,Canada,Basic,30.51,2,No,Paid Ads,Technology,2025-03-21
+CUST00040,Germany,Basic,27.84,32,No,Organic,Retail,2025-04-08
+CUST00041,Brazil,Basic,29.83,32,No,Organic,Finance,2025-04-01
+CUST00042,France,Basic,24.16,55,No,Paid Ads,Healthcare,2025-03-12
+CUST00043,Australia,Basic,25.99,52,No,Organic,Healthcare,2025-02-26
+CUST00044,Germany,Basic,36.92,48,No,Partner,Technology,2025-03-03
+CUST00045,UK,Basic,39.67,3,No,Organic,Retail,2025-03-16
+CUST00046,France,Pro,80.81,19,No,Referral,Education,2025-04-10
+CUST00047,USA,Pro,72.8,41,No,Referral,Healthcare,2025-04-12
+CUST00048,Canada,Basic,28.65,18,No,Partner,Retail,2025-03-04
+CUST00049,France,Pro,71.62,31,No,Referral,Technology,2025-04-16
+CUST00050,Brazil,Basic,33.39,60,No,Paid Ads,Technology,2025-03-31
+CUST00051,USA,Enterprise,248.68,1,No,Referral,Technology,2025-03-25
+CUST00052,Australia,Pro,81.19,37,No,Paid Ads,Finance,2025-04-04
+CUST00053,UK,Basic,34.82,16,No,Paid Ads,Technology,2025-03-31
+CUST00054,Brazil,Pro,69.35,56,No,Organic,Technology,2025-03-18
+CUST00055,UK,Pro,88.54,48,No,Partner,Retail,2025-04-25
+CUST00056,USA,Pro,97.89,29,No,Referral,Education,2025-03-17
+CUST00057,Canada,Basic,15.6,41,No,Organic,Finance,2025-04-16
+CUST00058,Australia,Basic,25.98,14,No,Organic,Retail,2025-03-09
+CUST00059,France,Pro,89.63,17,No,Partner,Retail,2025-03-03
+CUST00060,Brazil,Basic,32.06,59,No,Paid Ads,Finance,2025-03-13
+CUST00061,France,Basic,34.39,27,No,Partner,Technology,2025-03-03
+CUST00062,Canada,Basic,28.8,33,No,Referral,Technology,2025-04-23
+CUST00063,Brazil,Basic,33.13,19,No,Partner,Finance,2025-03-21
+CUST00064,Australia,Pro,71.43,17,No,Paid Ads,Education,2025-03-02
+CUST00065,Germany,Basic,33.03,60,Yes,Referral,Healthcare,2025-04-06
+CUST00066,Australia,Enterprise,289.53,49,No,Partner,Retail,2025-03-27
+CUST00067,Canada,Basic,25.25,33,No,Paid Ads,Retail,2025-03-21
+CUST00068,UK,Basic,27.02,25,No,Organic,Technology,2025-03-28
+CUST00069,Australia,Pro,86.35,23,No,Paid Ads,Technology,2025-03-01
+CUST00070,Canada,Basic,24.6,2,No,Organic,Retail,2025-03-08
+CUST00071,France,Pro,84.19,39,No,Organic,Finance,2025-04-07
+CUST00072,USA,Pro,72.72,35,No,Organic,Education,2025-04-06
+CUST00073,USA,Pro,68.17,8,No,Paid Ads,Education,2025-04-06
+CUST00074,France,Pro,84.95,12,No,Partner,Finance,2025-04-25
+CUST00075,Australia,Basic,22.2,22,No,Paid Ads,Technology,2025-04-02
+CUST00076,Australia,Basic,40.0,22,No,Partner,Finance,2025-03-11
+CUST00077,Brazil,Basic,25.53,33,No,Partner,Healthcare,2025-03-23
+CUST00078,Canada,Basic,28.33,44,No,Organic,Retail,2025-03-13
+CUST00079,France,Basic,30.23,47,No,Partner,Education,2025-03-08
+CUST00080,Germany,Basic,26.74,16,No,Partner,Healthcare,2025-04-11
+CUST00081,Brazil,Basic,35.24,19,No,Organic,Retail,2025-03-17
+CUST00082,USA,Basic,26.86,37,No,Partner,Education,2025-04-07
+CUST00083,Brazil,Basic,38.91,1,Yes,Organic,Finance,2025-04-15
+CUST00084,Canada,Basic,26.61,34,No,Paid Ads,Technology,2025-03-01
+CUST00085,Germany,Basic,31.36,5,No,Paid Ads,Healthcare,2025-04-25
+CUST00086,Canada,Basic,41.22,12,No,Referral,Healthcare,2025-04-02
+CUST00087,Canada,Basic,28.3,28,Yes,Organic,Healthcare,2025-03-19
+CUST00088,Brazil,Basic,25.92,46,No,Organic,Retail,2025-04-03
+CUST00089,France,Basic,27.25,30,No,Organic,Retail,2025-03-24
+CUST00090,Brazil,Basic,35.48,54,No,Paid Ads,Finance,2025-03-21
+CUST00091,Germany,Basic,37.21,58,No,Partner,Healthcare,2025-04-16
+CUST00092,Canada,Basic,22.82,45,No,Partner,Retail,2025-04-15
+CUST00093,Canada,Basic,28.99,32,No,Partner,Retail,2025-04-18
+CUST00094,Germany,Basic,30.3,50,No,Referral,Healthcare,2025-03-02
+CUST00095,UK,Basic,32.41,12,No,Partner,Technology,2025-03-02
+CUST00096,France,Enterprise,314.01,10,No,Partner,Finance,2025-03-31
+CUST00097,Canada,Basic,27.27,51,No,Referral,Finance,2025-04-18
+CUST00098,USA,Basic,23.66,26,No,Organic,Education,2025-03-05
+CUST00099,USA,Pro,73.78,53,No,Organic,Technology,2025-03-07
+CUST00100,Germany,Enterprise,289.34,56,No,Paid Ads,Retail,2025-03-09
+CUST00101,Australia,Pro,71.71,9,No,Organic,Finance,2025-04-09
+CUST00102,USA,Basic,27.2,35,No,Organic,Finance,2025-02-28
+CUST00103,Germany,Basic,26.65,32,No,Organic,Technology,2025-03-03
+CUST00104,Canada,Basic,35.81,13,No,Organic,Technology,2025-03-31
+CUST00105,USA,Basic,33.16,20,No,Partner,Technology,2025-03-11
+CUST00106,Australia,Basic,18.73,59,No,Referral,Education,2025-04-21
+CUST00107,Canada,Basic,31.96,31,No,Referral,Finance,2025-04-15
+CUST00108,UK,Basic,29.38,47,No,Partner,Finance,2025-04-23
+CUST00109,France,Basic,35.62,21,No,Referral,Healthcare,2025-04-26
+CUST00110,UK,Pro,101.43,57,No,Organic,Retail,2025-03-07
+CUST00111,Germany,Enterprise,354.41,47,No,Organic,Retail,2025-03-27
+CUST00112,Australia,Pro,84.05,44,No,Paid Ads,Technology,2025-04-09
+CUST00113,UK,Pro,65.61,9,No,Paid Ads,Education,2025-04-07
+CUST00114,USA,Pro,76.17,5,No,Paid Ads,Education,2025-04-06
+CUST00115,UK,Basic,35.3,22,No,Paid Ads,Healthcare,2025-03-10
+CUST00116,Brazil,Enterprise,307.12,25,No,Referral,Technology,2025-02-28
+CUST00117,Brazil,Basic,29.18,44,No,Organic,Technology,2025-03-18
+CUST00118,UK,Basic,39.3,26,No,Organic,Finance,2025-03-25
+CUST00119,UK,Basic,27.13,58,No,Organic,Retail,2025-04-26
+CUST00120,France,Pro,65.08,41,No,Paid Ads,Education,2025-04-20
+CUST00121,UK,Pro,74.6,60,No,Paid Ads,Education,2025-03-30
+CUST00122,Canada,Pro,65.8,38,No,Referral,Technology,2025-02-28
+CUST00123,Germany,Pro,80.46,47,No,Referral,Retail,2025-02-26
+CUST00124,USA,Basic,31.95,11,No,Partner,Education,2025-03-12
+CUST00125,USA,Basic,27.64,47,No,Organic,Education,2025-04-04
+CUST00126,Brazil,Pro,82.17,31,No,Paid Ads,Education,2025-03-30
+CUST00127,Canada,Pro,94.37,11,No,Partner,Technology,2025-03-06
+CUST00128,France,Enterprise,278.95,8,No,Partner,Technology,2025-04-10
+CUST00129,USA,Basic,25.06,36,No,Organic,Retail,2025-04-18
+CUST00130,France,Basic,27.54,50,No,Paid Ads,Technology,2025-03-20
+CUST00131,USA,Basic,28.38,17,No,Referral,Technology,2025-04-02
+CUST00132,Australia,Basic,21.7,13,No,Paid Ads,Healthcare,2025-03-01
+CUST00133,Canada,Basic,23.4,56,No,Organic,Education,2025-04-12
+CUST00134,UK,Basic,39.16,5,Yes,Organic,Education,2025-03-04
+CUST00135,Canada,Basic,31.48,25,No,Paid Ads,Retail,2025-03-14
+CUST00136,UK,Pro,69.03,13,No,Partner,Technology,2025-03-09
+CUST00137,France,Basic,31.09,5,No,Paid Ads,Finance,2025-02-28
+CUST00138,Brazil,Enterprise,285.47,53,No,Paid Ads,Finance,2025-04-12
+CUST00139,Germany,Pro,73.56,21,No,Organic,Finance,2025-04-19
+CUST00140,France,Basic,36.78,51,No,Referral,Healthcare,2025-04-10
+CUST00141,Brazil,Basic,31.68,34,No,Paid Ads,Education,2025-03-02
+CUST00142,Canada,Basic,32.47,26,No,Organic,Healthcare,2025-04-19
+CUST00143,Brazil,Basic,27.41,1,No,Organic,Healthcare,2025-03-23
+CUST00144,Canada,Basic,34.46,30,No,Paid Ads,Healthcare,2025-04-09
+CUST00145,UK,Basic,16.96,37,No,Referral,Finance,2025-04-01
+CUST00146,Canada,Pro,73.45,51,No,Organic,Finance,2025-03-26
+CUST00147,Germany,Pro,80.54,18,No,Referral,Education,2025-03-22
+CUST00148,Brazil,Basic,31.2,34,No,Organic,Education,2025-04-01
+CUST00149,UK,Basic,27.57,55,No,Partner,Technology,2025-03-02
+CUST00150,UK,Pro,93.34,29,No,Organic,Retail,2025-03-14
+CUST00151,UK,Enterprise,248.9,24,Yes,Paid Ads,Technology,2025-03-02
+CUST00152,UK,Pro,79.44,2,No,Organic,Retail,2025-04-14
+CUST00153,Australia,Pro,78.77,57,No,Partner,Education,2025-03-10
+CUST00154,France,Basic,29.62,11,No,Referral,Healthcare,2025-03-28
+CUST00155,Australia,Pro,74.86,3,No,Organic,Healthcare,2025-04-03
+CUST00156,Australia,Basic,24.7,32,No,Paid Ads,Education,2025-02-26
+CUST00157,USA,Basic,25.92,21,No,Partner,Retail,2025-03-23
+CUST00158,Australia,Basic,27.2,12,No,Paid Ads,Education,2025-03-20
+CUST00159,Germany,Basic,39.82,9,No,Organic,Education,2025-03-21
+CUST00160,Australia,Basic,30.18,22,No,Referral,Retail,2025-03-29
+CUST00161,France,Pro,88.51,49,No,Referral,Technology,2025-03-01
+CUST00162,UK,Enterprise,281.39,47,No,Partner,Education,2025-03-06
+CUST00163,Germany,Basic,22.42,24,No,Referral,Technology,2025-04-08
+CUST00164,Canada,Basic,36.83,59,No,Paid Ads,Healthcare,2025-03-22
+CUST00165,France,Pro,80.29,47,Yes,Partner,Finance,2025-03-03
+CUST00166,Australia,Pro,89.69,38,No,Referral,Healthcare,2025-04-14
+CUST00167,Australia,Basic,26.22,10,No,Organic,Education,2025-03-23
+CUST00168,UK,Pro,65.78,22,No,Paid Ads,Healthcare,2025-04-12
+CUST00169,Brazil,Basic,31.09,4,No,Referral,Healthcare,2025-03-21
+CUST00170,Germany,Pro,89.11,18,No,Partner,Finance,2025-03-30
+CUST00171,Australia,Basic,37.62,49,No,Partner,Finance,2025-03-11
+CUST00172,France,Basic,32.69,37,No,Organic,Education,2025-03-05
+CUST00173,Australia,Pro,60.86,45,No,Referral,Retail,2025-04-01
+CUST00174,Brazil,Enterprise,328.24,53,No,Paid Ads,Education,2025-04-23
+CUST00175,Canada,Basic,26.75,11,No,Paid Ads,Finance,2025-03-15
+CUST00176,USA,Pro,75.13,24,No,Organic,Finance,2025-04-19
+CUST00177,Germany,Basic,17.49,36,No,Organic,Healthcare,2025-03-22
+CUST00178,Germany,Pro,86.85,20,No,Paid Ads,Healthcare,2025-04-15
+CUST00179,Germany,Pro,74.23,56,No,Partner,Finance,2025-03-30
+CUST00180,Canada,Pro,87.55,2,No,Organic,Retail,2025-04-18
+CUST00181,Brazil,Basic,34.67,6,No,Partner,Finance,2025-04-06
+CUST00182,Canada,Pro,72.38,20,No,Partner,Retail,2025-03-06
+CUST00183,Australia,Basic,31.3,38,No,Paid Ads,Retail,2025-04-09
+CUST00184,Germany,Basic,25.48,36,No,Paid Ads,Healthcare,2025-04-14
+CUST00185,France,Basic,26.26,5,Yes,Referral,Healthcare,2025-04-18
+CUST00186,Australia,Enterprise,235.84,13,No,Partner,Technology,2025-03-14
+CUST00187,Germany,Basic,29.64,38,No,Paid Ads,Healthcare,2025-03-16
+CUST00188,Germany,Basic,24.88,49,No,Referral,Finance,2025-03-08
+CUST00189,Brazil,Pro,86.84,11,No,Referral,Technology,2025-04-25
+CUST00190,Germany,Basic,29.28,35,No,Paid Ads,Education,2025-04-09
+CUST00191,Germany,Pro,85.32,60,No,Organic,Education,2025-03-08
+CUST00192,Canada,Basic,33.48,5,Yes,Referral,Education,2025-02-26
+CUST00193,UK,Pro,77.26,42,No,Organic,Finance,2025-03-12
+CUST00194,Canada,Pro,86.08,39,No,Paid Ads,Healthcare,2025-04-12
+CUST00195,France,Pro,87.08,15,No,Paid Ads,Finance,2025-03-05
+CUST00196,USA,Basic,41.04,47,No,Partner,Healthcare,2025-03-12
+CUST00197,UK,Basic,31.18,51,No,Partner,Healthcare,2025-04-17
+CUST00198,USA,Basic,33.85,51,No,Paid Ads,Healthcare,2025-03-14
+CUST00199,Germany,Basic,32.55,52,No,Organic,Technology,2025-03-02
+CUST00200,Germany,Basic,36.24,29,No,Partner,Retail,2025-03-03
+CUST00201,UK,Basic,34.15,4,No,Referral,Healthcare,2025-04-15
+CUST00202,Brazil,Pro,71.44,59,No,Partner,Technology,2025-03-11
+CUST00203,France,Basic,18.78,45,No,Paid Ads,Healthcare,2025-04-09
+CUST00204,Canada,Basic,33.38,29,No,Referral,Healthcare,2025-04-10
+CUST00205,Germany,Basic,37.07,27,No,Organic,Healthcare,2025-03-25
+CUST00206,UK,Pro,75.26,36,No,Partner,Finance,2025-04-25
+CUST00207,Brazil,Basic,24.11,23,No,Partner,Finance,2025-04-17
+CUST00208,Australia,Enterprise,279.59,12,No,Organic,Healthcare,2025-03-17
+CUST00209,Australia,Basic,28.66,40,No,Organic,Retail,2025-04-13
+CUST00210,France,Enterprise,286.8,36,No,Partner,Finance,2025-03-09
+CUST00211,Brazil,Pro,73.97,9,No,Partner,Finance,2025-04-19
+CUST00212,USA,Pro,93.02,40,No,Referral,Healthcare,2025-03-14
+CUST00213,UK,Enterprise,290.12,26,No,Paid Ads,Healthcare,2025-04-16
+CUST00214,UK,Basic,27.65,57,No,Referral,Healthcare,2025-04-18
+CUST00215,UK,Basic,32.69,47,No,Partner,Education,2025-03-14
+CUST00216,Brazil,Basic,23.21,52,No,Organic,Healthcare,2025-02-26
+CUST00217,USA,Pro,77.9,26,No,Organic,Education,2025-04-23
+CUST00218,Canada,Basic,25.26,18,No,Organic,Retail,2025-03-13
+CUST00219,Brazil,Enterprise,286.7,59,No,Organic,Finance,2025-03-20
+CUST00220,Canada,Basic,30.41,7,No,Organic,Technology,2025-03-23
+CUST00221,Canada,Basic,35.19,43,No,Paid Ads,Finance,2025-04-18
+CUST00222,Germany,Basic,26.51,21,No,Organic,Technology,2025-02-28
+CUST00223,Canada,Enterprise,368.3,22,No,Partner,Education,2025-04-09
+CUST00224,Brazil,Enterprise,251.12,49,No,Referral,Finance,2025-03-14
+CUST00225,Australia,Basic,23.19,56,No,Organic,Finance,2025-03-25
+CUST00226,UK,Basic,20.44,29,No,Organic,Technology,2025-03-30
+CUST00227,USA,Basic,31.52,1,No,Referral,Technology,2025-03-12
+CUST00228,France,Basic,35.83,2,No,Partner,Healthcare,2025-04-01
+CUST00229,France,Basic,37.96,4,Yes,Paid Ads,Retail,2025-04-09
+CUST00230,Australia,Pro,79.82,39,No,Paid Ads,Retail,2025-03-20
+CUST00231,France,Basic,30.32,33,Yes,Referral,Technology,2025-04-01
+CUST00232,Brazil,Basic,34.76,50,No,Organic,Technology,2025-03-04
+CUST00233,Brazil,Basic,21.89,23,No,Organic,Education,2025-03-24
+CUST00234,Australia,Basic,31.7,54,No,Partner,Education,2025-04-14
+CUST00235,USA,Basic,30.72,8,No,Referral,Retail,2025-02-27
+CUST00236,Brazil,Basic,34.89,14,No,Partner,Healthcare,2025-03-16
+CUST00237,USA,Pro,77.24,55,No,Partner,Education,2025-03-21
+CUST00238,France,Basic,24.71,7,No,Partner,Finance,2025-04-12
+CUST00239,Germany,Pro,93.67,1,No,Paid Ads,Technology,2025-04-17
+CUST00240,France,Basic,34.79,42,No,Referral,Technology,2025-03-27
+CUST00241,Brazil,Basic,35.93,9,No,Partner,Healthcare,2025-03-27
+CUST00242,Germany,Basic,26.65,52,No,Referral,Education,2025-04-06
+CUST00243,Brazil,Pro,81.66,59,No,Paid Ads,Retail,2025-03-19
+CUST00244,UK,Pro,70.24,17,No,Partner,Finance,2025-02-26
+CUST00245,Brazil,Basic,34.35,25,No,Partner,Technology,2025-03-15
+CUST00246,Australia,Basic,35.29,43,No,Partner,Education,2025-04-20
+CUST00247,USA,Basic,31.49,37,Yes,Partner,Education,2025-03-23
+CUST00248,Canada,Enterprise,318.68,21,No,Partner,Finance,2025-03-23
+CUST00249,UK,Basic,29.26,38,No,Referral,Education,2025-04-22
+CUST00250,UK,Basic,26.6,42,No,Referral,Technology,2025-03-26
+CUST00251,USA,Basic,34.56,34,No,Paid Ads,Retail,2025-03-11
+CUST00252,Canada,Pro,70.83,7,No,Partner,Healthcare,2025-04-25
+CUST00253,Australia,Pro,94.04,46,Yes,Paid Ads,Healthcare,2025-04-11
+CUST00254,France,Basic,27.52,43,No,Partner,Healthcare,2025-03-26
+CUST00255,Brazil,Basic,28.87,36,No,Organic,Retail,2025-04-06
+CUST00256,UK,Basic,36.04,35,No,Paid Ads,Healthcare,2025-03-16
+CUST00257,France,Basic,21.23,47,No,Paid Ads,Education,2025-03-01
+CUST00258,France,Basic,29.38,43,No,Referral,Healthcare,2025-04-23
+CUST00259,Australia,Enterprise,311.24,2,No,Referral,Healthcare,2025-03-21
+CUST00260,France,Basic,24.76,17,No,Referral,Education,2025-04-24
+CUST00261,France,Pro,70.55,35,No,Partner,Education,2025-03-06
+CUST00262,UK,Pro,103.03,44,No,Referral,Finance,2025-04-19
+CUST00263,USA,Basic,28.46,59,No,Paid Ads,Education,2025-03-21
+CUST00264,USA,Basic,26.71,10,No,Paid Ads,Finance,2025-02-26
+CUST00265,Canada,Basic,33.46,17,No,Partner,Education,2025-03-13
+CUST00266,France,Pro,92.86,6,No,Referral,Retail,2025-04-13
+CUST00267,Brazil,Enterprise,340.65,41,No,Paid Ads,Education,2025-04-10
+CUST00268,Canada,Basic,35.14,10,No,Referral,Finance,2025-04-06
+CUST00269,UK,Enterprise,262.47,7,Yes,Organic,Technology,2025-03-02
+CUST00270,Canada,Pro,106.06,9,No,Referral,Retail,2025-02-27
+CUST00271,USA,Basic,36.78,31,No,Referral,Finance,2025-04-24
+CUST00272,France,Pro,76.41,18,No,Partner,Retail,2025-04-07
+CUST00273,Brazil,Pro,67.26,44,No,Organic,Technology,2025-04-25
+CUST00274,UK,Basic,37.07,37,No,Partner,Healthcare,2025-04-20
+CUST00275,Germany,Basic,37.22,56,No,Referral,Finance,2025-03-07
+CUST00276,USA,Pro,60.95,25,No,Referral,Healthcare,2025-04-24
+CUST00277,USA,Basic,35.05,2,Yes,Organic,Healthcare,2025-04-04
+CUST00278,Germany,Pro,78.04,30,Yes,Organic,Technology,2025-03-03
+CUST00279,France,Basic,33.2,59,No,Organic,Finance,2025-03-01
+CUST00280,Canada,Basic,29.14,49,No,Referral,Retail,2025-03-12
+CUST00281,Canada,Basic,34.6,47,No,Organic,Technology,2025-04-08
+CUST00282,Brazil,Basic,31.57,39,No,Partner,Technology,2025-03-19
+CUST00283,Australia,Pro,79.91,56,No,Paid Ads,Technology,2025-03-14
+CUST00284,Germany,Basic,29.33,37,Yes,Partner,Healthcare,2025-03-09
+CUST00285,UK,Basic,29.83,49,No,Partner,Education,2025-04-02
+CUST00286,Australia,Basic,31.17,59,No,Organic,Technology,2025-04-10
+CUST00287,France,Pro,78.34,56,No,Organic,Finance,2025-03-07
+CUST00288,France,Pro,71.74,13,No,Paid Ads,Education,2025-04-12
+CUST00289,France,Pro,78.51,29,No,Organic,Finance,2025-03-11
+CUST00290,Canada,Pro,73.41,45,No,Paid Ads,Technology,2025-03-31
+CUST00291,USA,Basic,27.92,58,No,Paid Ads,Retail,2025-03-09
+CUST00292,Germany,Basic,29.48,5,No,Partner,Technology,2025-04-16
+CUST00293,Germany,Basic,42.51,49,No,Referral,Retail,2025-03-26
+CUST00294,Canada,Basic,32.35,50,No,Referral,Education,2025-04-04
+CUST00295,France,Enterprise,297.39,13,No,Partner,Retail,2025-03-11
+CUST00296,France,Basic,34.73,9,No,Paid Ads,Education,2025-04-02
+CUST00297,Brazil,Pro,57.54,59,No,Paid Ads,Healthcare,2025-03-04
+CUST00298,USA,Pro,71.22,25,No,Paid Ads,Finance,2025-03-13
+CUST00299,UK,Basic,32.53,11,No,Paid Ads,Retail,2025-04-11
+CUST00300,USA,Basic,29.0,15,Yes,Paid Ads,Education,2025-03-11
+CUST00301,Australia,Pro,80.46,37,No,Referral,Healthcare,2025-03-10
+CUST00302,USA,Pro,73.69,5,No,Partner,Education,2025-03-18
+CUST00303,France,Basic,30.22,51,No,Partner,Education,2025-04-13
+CUST00304,Australia,Basic,35.15,34,No,Partner,Healthcare,2025-04-03
+CUST00305,USA,Pro,81.57,16,No,Organic,Healthcare,2025-04-10
+CUST00306,France,Pro,97.31,59,No,Referral,Technology,2025-04-12
+CUST00307,UK,Basic,31.59,60,No,Organic,Retail,2025-03-07
+CUST00308,Canada,Pro,73.7,58,No,Organic,Education,2025-03-01
+CUST00309,Australia,Pro,82.3,18,No,Organic,Finance,2025-03-07
+CUST00310,Germany,Pro,78.48,29,No,Partner,Education,2025-03-03
+CUST00311,Canada,Basic,28.76,41,No,Partner,Healthcare,2025-03-02
+CUST00312,USA,Basic,27.03,60,Yes,Partner,Education,2025-03-28
+CUST00313,Germany,Pro,76.09,7,No,Referral,Education,2025-03-28
+CUST00314,France,Enterprise,279.89,28,No,Organic,Finance,2025-04-25
+CUST00315,UK,Enterprise,286.61,27,No,Partner,Healthcare,2025-03-01
+CUST00316,UK,Pro,81.94,17,No,Partner,Technology,2025-03-31
+CUST00317,USA,Basic,27.6,50,No,Partner,Retail,2025-03-10
+CUST00318,UK,Pro,81.28,12,No,Referral,Education,2025-03-10
+CUST00319,USA,Basic,37.83,58,Yes,Partner,Technology,2025-03-15
+CUST00320,Brazil,Basic,29.67,34,No,Organic,Technology,2025-03-24
+CUST00321,Germany,Basic,23.85,55,No,Partner,Retail,2025-03-21
+CUST00322,Canada,Basic,29.11,32,No,Referral,Technology,2025-03-16
+CUST00323,Brazil,Pro,67.2,17,No,Partner,Healthcare,2025-04-24
+CUST00324,Brazil,Basic,34.36,29,No,Organic,Finance,2025-03-18
+CUST00325,UK,Basic,23.86,57,No,Paid Ads,Education,2025-04-03
+CUST00326,Germany,Basic,38.3,58,No,Partner,Retail,2025-04-03
+CUST00327,USA,Basic,23.74,15,No,Paid Ads,Finance,2025-03-06
+CUST00328,UK,Basic,37.22,60,No,Organic,Technology,2025-03-12
+CUST00329,Germany,Pro,87.08,46,No,Organic,Finance,2025-03-22
+CUST00330,Brazil,Basic,33.61,29,No,Organic,Healthcare,2025-03-07
+CUST00331,USA,Basic,30.98,46,No,Paid Ads,Healthcare,2025-04-16
+CUST00332,France,Basic,33.55,7,No,Referral,Technology,2025-04-03
+CUST00333,France,Pro,66.42,57,No,Referral,Healthcare,2025-03-13
+CUST00334,Brazil,Pro,76.84,53,No,Partner,Healthcare,2025-04-04
+CUST00335,Canada,Pro,75.54,8,No,Partner,Technology,2025-03-05
+CUST00336,Canada,Pro,61.1,18,No,Partner,Finance,2025-03-26
+CUST00337,Australia,Pro,90.24,33,No,Paid Ads,Retail,2025-02-26
+CUST00338,UK,Enterprise,267.19,11,No,Partner,Education,2025-04-03
+CUST00339,Brazil,Basic,29.98,22,No,Referral,Retail,2025-03-10
+CUST00340,UK,Basic,24.21,40,Yes,Referral,Technology,2025-04-16
+CUST00341,Australia,Basic,25.62,13,No,Partner,Finance,2025-03-01
+CUST00342,Germany,Pro,80.38,26,No,Partner,Education,2025-04-24
+CUST00343,UK,Basic,38.99,50,No,Partner,Healthcare,2025-04-05
+CUST00344,UK,Basic,33.2,44,No,Paid Ads,Finance,2025-04-12
+CUST00345,Australia,Pro,98.12,8,No,Partner,Finance,2025-04-25
+CUST00346,Brazil,Pro,83.58,20,No,Partner,Retail,2025-04-03
+CUST00347,UK,Pro,93.17,26,No,Partner,Healthcare,2025-03-16
+CUST00348,Germany,Basic,30.99,60,No,Paid Ads,Healthcare,2025-04-18
+CUST00349,USA,Basic,24.84,55,No,Paid Ads,Technology,2025-03-22
+CUST00350,Australia,Basic,27.35,44,No,Referral,Retail,2025-03-27
+CUST00351,Brazil,Pro,80.38,10,No,Partner,Retail,2025-03-09
+CUST00352,Australia,Basic,30.6,54,Yes,Partner,Retail,2025-03-11
+CUST00353,France,Basic,35.46,31,No,Paid Ads,Healthcare,2025-04-19
+CUST00354,Brazil,Pro,78.89,37,No,Paid Ads,Retail,2025-03-05
+CUST00355,Germany,Basic,31.12,36,Yes,Referral,Education,2025-03-29
+CUST00356,Australia,Basic,35.24,36,No,Partner,Retail,2025-04-12
+CUST00357,Brazil,Enterprise,251.01,51,No,Referral,Technology,2025-03-14
+CUST00358,Germany,Basic,27.14,3,No,Referral,Healthcare,2025-04-22
+CUST00359,Brazil,Pro,73.74,8,No,Organic,Technology,2025-03-22
+CUST00360,USA,Pro,83.96,42,No,Paid Ads,Education,2025-04-19
+CUST00361,Canada,Enterprise,309.71,45,No,Organic,Healthcare,2025-03-29
+CUST00362,USA,Basic,28.54,47,No,Organic,Healthcare,2025-03-13
+CUST00363,Canada,Basic,26.57,17,No,Referral,Retail,2025-03-03
+CUST00364,USA,Enterprise,308.27,2,No,Referral,Retail,2025-03-01
+CUST00365,UK,Basic,38.58,36,No,Referral,Education,2025-04-16
+CUST00366,Germany,Basic,37.69,11,No,Paid Ads,Finance,2025-03-24
+CUST00367,Australia,Basic,27.04,12,No,Partner,Technology,2025-04-02
+CUST00368,France,Basic,20.24,20,No,Paid Ads,Finance,2025-03-14
+CUST00369,Canada,Enterprise,277.74,28,Yes,Organic,Technology,2025-03-29
+CUST00370,Brazil,Pro,66.95,37,No,Partner,Technology,2025-04-26
+CUST00371,France,Pro,75.32,47,No,Paid Ads,Healthcare,2025-04-24
+CUST00372,Australia,Basic,38.96,20,No,Paid Ads,Finance,2025-04-24
+CUST00373,Germany,Basic,33.64,29,No,Referral,Healthcare,2025-04-02
+CUST00374,UK,Basic,30.26,37,No,Organic,Healthcare,2025-04-24
+CUST00375,UK,Basic,27.06,42,No,Paid Ads,Retail,2025-03-07
+CUST00376,Germany,Basic,30.05,59,Yes,Referral,Technology,2025-04-17
+CUST00377,UK,Enterprise,327.49,31,No,Partner,Education,2025-04-16
+CUST00378,Germany,Basic,31.73,23,No,Referral,Finance,2025-04-11
+CUST00379,Germany,Basic,25.31,55,No,Partner,Retail,2025-04-11
+CUST00380,Canada,Basic,33.22,55,No,Partner,Technology,2025-03-06
+CUST00381,UK,Basic,29.05,34,No,Referral,Education,2025-04-04
+CUST00382,USA,Enterprise,306.52,43,No,Partner,Education,2025-03-24
+CUST00383,USA,Basic,34.81,40,No,Organic,Technology,2025-04-02
+CUST00384,France,Basic,31.54,25,No,Partner,Education,2025-04-01
+CUST00385,Brazil,Pro,86.39,53,No,Paid Ads,Technology,2025-03-21
+CUST00386,Brazil,Basic,24.28,28,No,Referral,Finance,2025-04-26
+CUST00387,France,Pro,88.02,25,No,Paid Ads,Technology,2025-04-26
+CUST00388,UK,Pro,76.02,13,No,Paid Ads,Retail,2025-03-02
+CUST00389,France,Basic,36.12,4,No,Organic,Education,2025-03-21
+CUST00390,Brazil,Pro,86.94,18,No,Partner,Retail,2025-04-09
+CUST00391,Australia,Basic,28.4,54,No,Referral,Finance,2025-02-26
+CUST00392,USA,Basic,34.74,1,No,Referral,Education,2025-03-13
+CUST00393,France,Basic,25.57,25,No,Partner,Finance,2025-03-02
+CUST00394,Canada,Basic,37.76,35,No,Paid Ads,Technology,2025-04-08
+CUST00395,UK,Basic,38.21,10,No,Referral,Finance,2025-02-28
+CUST00396,UK,Basic,35.05,21,No,Partner,Education,2025-03-10
+CUST00397,France,Basic,27.73,26,No,Referral,Retail,2025-03-19
+CUST00398,Germany,Basic,29.9,48,No,Organic,Finance,2025-04-17
+CUST00399,Brazil,Basic,36.92,6,No,Paid Ads,Healthcare,2025-04-17
+CUST00400,Brazil,Pro,85.64,43,Yes,Referral,Retail,2025-04-16
+CUST00401,Brazil,Basic,28.74,11,No,Partner,Retail,2025-04-26
+CUST00402,UK,Basic,31.96,13,No,Organic,Healthcare,2025-04-25
+CUST00403,UK,Basic,21.54,52,No,Referral,Technology,2025-04-26
+CUST00404,Germany,Enterprise,297.05,28,No,Referral,Retail,2025-02-28
+CUST00405,France,Basic,37.57,49,No,Paid Ads,Healthcare,2025-04-01
+CUST00406,USA,Pro,87.73,30,No,Referral,Technology,2025-03-04
+CUST00407,Canada,Pro,81.05,7,No,Organic,Healthcare,2025-03-27
+CUST00408,France,Pro,66.66,42,No,Referral,Healthcare,2025-04-10
+CUST00409,USA,Basic,32.39,47,No,Paid Ads,Retail,2025-04-01
+CUST00410,USA,Pro,57.23,54,No,Referral,Healthcare,2025-04-20
+CUST00411,USA,Basic,32.9,24,No,Organic,Finance,2025-03-21
+CUST00412,Australia,Pro,91.61,8,No,Paid Ads,Healthcare,2025-02-28
+CUST00413,Germany,Basic,25.71,24,No,Referral,Technology,2025-04-09
+CUST00414,Germany,Basic,24.71,10,No,Paid Ads,Healthcare,2025-02-27
+CUST00415,France,Pro,77.55,5,No,Organic,Healthcare,2025-04-05
+CUST00416,Australia,Pro,68.72,34,No,Partner,Education,2025-03-23
+CUST00417,USA,Basic,27.26,35,No,Referral,Finance,2025-02-28
+CUST00418,Germany,Basic,25.31,10,No,Partner,Finance,2025-03-06
+CUST00419,Brazil,Pro,86.67,18,No,Referral,Retail,2025-04-25
+CUST00420,France,Basic,22.25,39,No,Referral,Technology,2025-03-10
+CUST00421,France,Basic,35.21,4,No,Referral,Retail,2025-03-11
+CUST00422,Germany,Basic,27.4,39,No,Referral,Finance,2025-04-08
+CUST00423,USA,Basic,35.65,9,No,Partner,Retail,2025-04-25
+CUST00424,France,Basic,38.58,41,No,Paid Ads,Technology,2025-03-15
+CUST00425,USA,Basic,32.47,44,No,Organic,Education,2025-04-05
+CUST00426,Canada,Basic,34.83,38,No,Paid Ads,Technology,2025-03-10
+CUST00427,Canada,Pro,77.53,22,No,Organic,Technology,2025-03-22
+CUST00428,Canada,Enterprise,253.86,2,No,Paid Ads,Finance,2025-03-30
+CUST00429,UK,Enterprise,241.47,22,No,Paid Ads,Technology,2025-04-25
+CUST00430,USA,Enterprise,281.13,13,No,Referral,Finance,2025-04-15
+CUST00431,Canada,Pro,76.73,30,No,Referral,Finance,2025-03-19
+CUST00432,USA,Pro,68.1,17,No,Organic,Finance,2025-04-13
+CUST00433,USA,Enterprise,229.93,23,No,Referral,Finance,2025-04-10
+CUST00434,Australia,Basic,27.5,5,No,Referral,Retail,2025-04-24
+CUST00435,Canada,Pro,87.73,20,No,Referral,Retail,2025-04-16
+CUST00436,Canada,Basic,24.22,39,No,Partner,Technology,2025-03-05
+CUST00437,USA,Pro,67.62,14,No,Organic,Healthcare,2025-03-16
+CUST00438,Germany,Basic,30.12,45,No,Referral,Technology,2025-04-06
+CUST00439,Australia,Basic,30.44,11,No,Organic,Healthcare,2025-03-31
+CUST00440,Australia,Basic,33.54,26,No,Paid Ads,Technology,2025-03-24
+CUST00441,USA,Basic,29.97,22,No,Referral,Healthcare,2025-04-20
+CUST00442,France,Basic,34.19,12,No,Organic,Retail,2025-04-13
+CUST00443,Germany,Basic,27.81,24,No,Partner,Healthcare,2025-02-27
+CUST00444,France,Pro,91.66,3,No,Organic,Healthcare,2025-03-13
+CUST00445,France,Basic,29.13,2,Yes,Partner,Retail,2025-04-23
+CUST00446,USA,Basic,26.22,14,No,Referral,Technology,2025-03-09
+CUST00447,Canada,Pro,77.75,54,No,Organic,Finance,2025-04-17
+CUST00448,UK,Pro,81.98,1,No,Referral,Healthcare,2025-03-20
+CUST00449,Australia,Pro,80.1,41,No,Referral,Healthcare,2025-04-13
+CUST00450,Australia,Pro,66.88,34,No,Partner,Retail,2025-04-10
+CUST00451,Brazil,Basic,32.54,32,No,Organic,Technology,2025-04-25
+CUST00452,France,Enterprise,301.62,20,No,Paid Ads,Healthcare,2025-03-10
+CUST00453,Germany,Basic,23.95,2,No,Paid Ads,Healthcare,2025-03-25
+CUST00454,UK,Basic,33.0,51,No,Partner,Healthcare,2025-03-22
+CUST00455,Germany,Basic,29.6,50,No,Organic,Education,2025-04-05
+CUST00456,Germany,Pro,65.2,9,No,Referral,Education,2025-04-14
+CUST00457,UK,Basic,26.15,16,No,Paid Ads,Healthcare,2025-03-01
+CUST00458,USA,Basic,27.2,39,No,Organic,Retail,2025-04-24
+CUST00459,USA,Basic,27.04,36,No,Partner,Retail,2025-04-04
+CUST00460,France,Basic,27.46,37,No,Referral,Finance,2025-03-08
+CUST00461,Australia,Basic,27.46,28,No,Organic,Technology,2025-04-03
+CUST00462,Australia,Basic,24.14,22,No,Referral,Retail,2025-04-13
+CUST00463,Germany,Basic,28.84,38,No,Referral,Healthcare,2025-04-11
+CUST00464,Brazil,Pro,69.54,58,No,Organic,Education,2025-03-02
+CUST00465,Australia,Pro,89.35,45,No,Referral,Education,2025-04-04
+CUST00466,USA,Pro,75.06,45,Yes,Paid Ads,Finance,2025-03-25
+CUST00467,France,Basic,34.08,21,No,Partner,Finance,2025-04-13
+CUST00468,Brazil,Basic,23.46,26,No,Organic,Education,2025-03-05
+CUST00469,Brazil,Pro,87.32,35,No,Referral,Retail,2025-04-09
+CUST00470,Brazil,Basic,23.81,38,No,Referral,Technology,2025-03-17
+CUST00471,Canada,Enterprise,313.95,2,No,Partner,Technology,2025-03-19
+CUST00472,Brazil,Basic,30.83,10,No,Organic,Technology,2025-04-05
+CUST00473,France,Basic,32.94,55,No,Referral,Retail,2025-04-06
+CUST00474,Canada,Pro,85.09,8,No,Referral,Education,2025-04-22
+CUST00475,UK,Pro,90.11,5,No,Referral,Retail,2025-03-09
+CUST00476,Canada,Basic,29.35,37,Yes,Paid Ads,Technology,2025-04-24
+CUST00477,France,Basic,33.97,51,No,Partner,Retail,2025-03-16
+CUST00478,Canada,Basic,36.14,5,No,Organic,Retail,2025-03-24
+CUST00479,France,Basic,31.18,52,No,Paid Ads,Healthcare,2025-04-14
+CUST00480,Germany,Pro,79.82,28,No,Partner,Education,2025-04-03
+CUST00481,Canada,Basic,36.28,8,No,Referral,Education,2025-04-23
+CUST00482,France,Basic,30.94,32,No,Referral,Technology,2025-03-13
+CUST00483,Australia,Pro,73.16,9,No,Organic,Retail,2025-04-22
+CUST00484,Canada,Basic,33.55,49,No,Paid Ads,Technology,2025-04-19
+CUST00485,USA,Basic,34.81,10,No,Organic,Education,2025-04-26
+CUST00486,Germany,Basic,29.74,40,No,Partner,Healthcare,2025-03-24
+CUST00487,Australia,Basic,30.2,32,No,Partner,Healthcare,2025-04-12
+CUST00488,UK,Basic,34.15,15,No,Paid Ads,Technology,2025-03-14
+CUST00489,USA,Basic,28.81,14,No,Referral,Healthcare,2025-03-04
+CUST00490,USA,Pro,72.21,22,No,Referral,Technology,2025-04-22
+CUST00491,Germany,Enterprise,298.62,49,No,Referral,Retail,2025-04-16
+CUST00492,Canada,Basic,40.21,32,No,Partner,Technology,2025-03-07
+CUST00493,USA,Pro,83.02,21,No,Organic,Finance,2025-03-11
+CUST00494,UK,Basic,21.7,8,No,Paid Ads,Finance,2025-03-22
+CUST00495,Brazil,Basic,35.62,25,No,Referral,Education,2025-02-26
+CUST00496,UK,Basic,26.0,18,No,Organic,Retail,2025-04-13
+CUST00497,Germany,Pro,68.04,44,No,Partner,Finance,2025-03-25
+CUST00498,Canada,Basic,29.8,33,No,Partner,Technology,2025-04-14
+CUST00499,France,Basic,39.06,39,No,Paid Ads,Technology,2025-04-19
+CUST00500,Australia,Pro,86.24,37,No,Referral,Retail,2025-03-03
+CUST00501,Germany,Basic,28.95,42,No,Organic,Healthcare,2025-04-24
+CUST00502,USA,Basic,25.75,21,No,Partner,Retail,2025-03-31
+CUST00503,Brazil,Pro,74.85,13,No,Referral,Technology,2025-03-03
+CUST00504,Germany,Basic,24.45,42,No,Partner,Healthcare,2025-04-19
+CUST00505,UK,Basic,26.08,34,No,Organic,Healthcare,2025-03-12
+CUST00506,USA,Pro,86.48,16,No,Referral,Finance,2025-04-07
+CUST00507,Brazil,Basic,25.91,20,No,Partner,Education,2025-04-08
+CUST00508,USA,Basic,19.53,26,No,Partner,Retail,2025-03-07
+CUST00509,Canada,Basic,22.37,57,No,Partner,Technology,2025-03-01
+CUST00510,Germany,Basic,36.31,7,No,Organic,Healthcare,2025-03-20
+CUST00511,Brazil,Pro,81.26,55,No,Referral,Education,2025-04-02
+CUST00512,Canada,Basic,26.56,24,No,Referral,Finance,2025-04-25
+CUST00513,USA,Pro,87.78,49,No,Organic,Technology,2025-03-23
+CUST00514,Australia,Basic,27.24,24,No,Paid Ads,Education,2025-03-24
+CUST00515,UK,Pro,89.48,19,No,Paid Ads,Finance,2025-04-25
+CUST00516,USA,Basic,33.41,55,No,Paid Ads,Education,2025-03-14
+CUST00517,Canada,Basic,27.09,28,No,Paid Ads,Technology,2025-03-13
+CUST00518,Canada,Enterprise,294.86,60,No,Organic,Finance,2025-04-25
+CUST00519,Brazil,Basic,29.68,47,No,Partner,Healthcare,2025-04-12
+CUST00520,Brazil,Basic,41.35,14,No,Partner,Technology,2025-03-15
+CUST00521,France,Pro,83.56,3,Yes,Referral,Education,2025-04-21
+CUST00522,Canada,Basic,30.24,54,No,Partner,Retail,2025-04-12
+CUST00523,Germany,Basic,31.62,42,No,Partner,Education,2025-03-21
+CUST00524,Brazil,Basic,29.26,5,No,Referral,Technology,2025-04-02
+CUST00525,USA,Basic,29.04,5,No,Referral,Technology,2025-04-17
+CUST00526,USA,Pro,93.9,39,No,Referral,Healthcare,2025-04-18
+CUST00527,Germany,Enterprise,291.77,20,No,Organic,Retail,2025-03-09
+CUST00528,UK,Enterprise,270.02,30,No,Referral,Retail,2025-03-27
+CUST00529,France,Basic,34.43,10,No,Organic,Technology,2025-03-18
+CUST00530,Australia,Pro,73.07,42,No,Partner,Healthcare,2025-03-08
+CUST00531,Australia,Basic,30.87,43,No,Organic,Healthcare,2025-04-19
+CUST00532,Brazil,Enterprise,294.92,57,No,Paid Ads,Education,2025-04-11
+CUST00533,Australia,Basic,29.16,15,Yes,Partner,Technology,2025-04-03
+CUST00534,Canada,Pro,81.11,20,No,Organic,Healthcare,2025-04-26
+CUST00535,USA,Pro,91.6,56,No,Referral,Retail,2025-04-08
+CUST00536,Australia,Pro,76.23,58,No,Paid Ads,Retail,2025-04-17
+CUST00537,Canada,Basic,25.81,49,No,Partner,Healthcare,2025-03-02
+CUST00538,Australia,Enterprise,318.32,12,No,Paid Ads,Education,2025-04-08
+CUST00539,UK,Basic,27.87,42,No,Referral,Healthcare,2025-03-07
+CUST00540,Germany,Pro,74.58,33,No,Referral,Technology,2025-04-18
+CUST00541,USA,Basic,32.14,41,No,Referral,Retail,2025-02-28
+CUST00542,UK,Basic,33.47,34,No,Organic,Technology,2025-03-09
+CUST00543,France,Basic,23.67,2,No,Partner,Education,2025-04-01
+CUST00544,UK,Basic,29.71,10,No,Paid Ads,Education,2025-03-07
+CUST00545,USA,Basic,33.1,24,No,Paid Ads,Education,2025-03-29
+CUST00546,UK,Basic,40.29,59,No,Partner,Finance,2025-04-16
+CUST00547,Australia,Basic,26.86,7,No,Organic,Education,2025-04-11
+CUST00548,Australia,Basic,33.01,4,No,Partner,Education,2025-04-25
+CUST00549,Brazil,Basic,31.62,22,No,Paid Ads,Technology,2025-03-14
+CUST00550,USA,Basic,28.74,41,No,Partner,Technology,2025-04-12
+CUST00551,UK,Pro,98.29,56,No,Organic,Education,2025-03-16
+CUST00552,UK,Enterprise,360.57,33,No,Paid Ads,Finance,2025-04-04
+CUST00553,UK,Pro,71.97,59,No,Partner,Finance,2025-03-02
+CUST00554,Canada,Pro,58.7,51,No,Paid Ads,Finance,2025-03-12
+CUST00555,USA,Basic,28.71,41,No,Referral,Retail,2025-04-06
+CUST00556,Australia,Pro,72.71,55,No,Organic,Education,2025-04-07
+CUST00557,Brazil,Basic,30.24,60,No,Paid Ads,Technology,2025-04-23
+CUST00558,Germany,Pro,89.57,7,No,Paid Ads,Finance,2025-04-03
+CUST00559,Canada,Basic,42.72,55,No,Paid Ads,Healthcare,2025-02-27
+CUST00560,USA,Pro,81.83,60,No,Partner,Education,2025-03-11
+CUST00561,France,Basic,25.7,1,No,Paid Ads,Healthcare,2025-02-26
+CUST00562,Australia,Enterprise,334.27,21,No,Referral,Healthcare,2025-03-25
+CUST00563,Canada,Basic,25.69,5,No,Paid Ads,Education,2025-04-26
+CUST00564,Brazil,Basic,31.82,25,No,Partner,Finance,2025-04-07
+CUST00565,UK,Basic,31.47,28,No,Partner,Healthcare,2025-03-09
+CUST00566,Brazil,Pro,79.25,50,No,Referral,Healthcare,2025-04-19
+CUST00567,Australia,Pro,66.72,24,No,Partner,Finance,2025-04-26
+CUST00568,Brazil,Pro,90.83,28,No,Paid Ads,Technology,2025-04-17
+CUST00569,Canada,Basic,27.01,34,No,Referral,Retail,2025-04-02
+CUST00570,France,Basic,38.21,58,No,Partner,Education,2025-03-14
+CUST00571,Australia,Basic,37.91,44,No,Organic,Technology,2025-04-02
+CUST00572,Brazil,Enterprise,315.4,35,Yes,Organic,Education,2025-04-24
+CUST00573,USA,Pro,76.82,56,No,Paid Ads,Education,2025-03-25
+CUST00574,Germany,Basic,26.62,9,No,Paid Ads,Healthcare,2025-04-03
+CUST00575,USA,Enterprise,326.04,47,No,Paid Ads,Healthcare,2025-04-13
+CUST00576,UK,Basic,28.11,35,No,Organic,Healthcare,2025-03-05
+CUST00577,USA,Basic,31.71,17,No,Partner,Technology,2025-03-11
+CUST00578,UK,Pro,82.2,13,No,Paid Ads,Healthcare,2025-03-29
+CUST00579,USA,Pro,76.21,46,No,Referral,Finance,2025-03-17
+CUST00580,USA,Pro,68.61,8,No,Referral,Retail,2025-03-23
+CUST00581,Brazil,Basic,29.51,49,Yes,Referral,Finance,2025-03-01
+CUST00582,Canada,Pro,94.12,26,No,Organic,Education,2025-04-25
+CUST00583,Brazil,Basic,32.7,28,Yes,Partner,Finance,2025-04-18
+CUST00584,Brazil,Enterprise,326.54,9,No,Partner,Healthcare,2025-03-02
+CUST00585,Australia,Pro,86.59,14,No,Organic,Retail,2025-04-12
+CUST00586,USA,Basic,28.07,36,No,Referral,Finance,2025-04-01
+CUST00587,Brazil,Basic,29.9,25,No,Paid Ads,Technology,2025-03-08
+CUST00588,France,Basic,28.48,41,No,Partner,Retail,2025-03-05
+CUST00589,Brazil,Pro,84.28,46,No,Referral,Finance,2025-03-31
+CUST00590,UK,Enterprise,326.97,55,No,Organic,Retail,2025-04-08
+CUST00591,Canada,Pro,74.42,11,No,Partner,Technology,2025-04-25
+CUST00592,Germany,Pro,63.08,21,No,Organic,Retail,2025-04-11
+CUST00593,Brazil,Pro,70.73,9,No,Partner,Technology,2025-03-10
+CUST00594,Australia,Pro,82.38,17,No,Organic,Technology,2025-03-25
+CUST00595,Australia,Enterprise,266.39,19,No,Paid Ads,Finance,2025-04-04
+CUST00596,UK,Basic,29.45,40,No,Partner,Retail,2025-04-19
+CUST00597,Australia,Basic,32.9,55,No,Referral,Finance,2025-04-03
+CUST00598,Australia,Basic,36.0,22,No,Partner,Finance,2025-04-21
+CUST00599,France,Enterprise,273.12,27,No,Organic,Technology,2025-03-17
+CUST00600,UK,Basic,25.35,23,No,Organic,Technology,2025-04-22
+CUST00601,Australia,Pro,88.07,19,No,Organic,Healthcare,2025-04-17
+CUST00602,Brazil,Enterprise,306.18,29,No,Partner,Retail,2025-04-04
+CUST00603,France,Pro,54.83,20,No,Partner,Education,2025-03-04
+CUST00604,UK,Basic,22.75,38,No,Organic,Education,2025-03-27
+CUST00605,Brazil,Basic,31.49,33,No,Organic,Education,2025-04-12
+CUST00606,Canada,Pro,82.89,49,No,Organic,Technology,2025-03-30
+CUST00607,France,Basic,27.1,17,No,Referral,Finance,2025-04-15
+CUST00608,USA,Basic,34.27,39,No,Referral,Technology,2025-03-18
+CUST00609,UK,Basic,28.53,11,No,Paid Ads,Healthcare,2025-03-21
+CUST00610,France,Basic,30.57,1,No,Partner,Finance,2025-03-14
+CUST00611,Brazil,Pro,83.44,45,No,Paid Ads,Retail,2025-03-22
+CUST00612,France,Basic,33.84,45,No,Partner,Retail,2025-04-26
+CUST00613,UK,Enterprise,320.64,46,No,Paid Ads,Retail,2025-03-31
+CUST00614,Brazil,Basic,32.1,23,Yes,Paid Ads,Retail,2025-03-06
+CUST00615,UK,Pro,88.19,33,No,Referral,Technology,2025-03-21
+CUST00616,Germany,Basic,23.97,19,No,Partner,Education,2025-04-09
+CUST00617,USA,Basic,28.97,51,No,Paid Ads,Education,2025-02-26
+CUST00618,UK,Enterprise,325.74,29,No,Organic,Education,2025-04-13
+CUST00619,UK,Basic,29.51,18,No,Organic,Education,2025-04-20
+CUST00620,Germany,Basic,30.09,39,No,Partner,Healthcare,2025-04-26
+CUST00621,Germany,Pro,80.58,40,No,Referral,Finance,2025-02-27
+CUST00622,Germany,Pro,72.55,12,No,Partner,Education,2025-02-27
+CUST00623,Brazil,Basic,27.26,21,No,Referral,Retail,2025-04-22
+CUST00624,France,Basic,30.46,25,No,Partner,Retail,2025-03-01
+CUST00625,Germany,Pro,84.71,18,No,Paid Ads,Technology,2025-03-30
+CUST00626,UK,Basic,34.23,9,No,Referral,Retail,2025-03-09
+CUST00627,USA,Pro,93.92,3,No,Referral,Education,2025-03-10
+CUST00628,UK,Basic,28.75,41,No,Partner,Technology,2025-03-06
+CUST00629,France,Basic,20.82,57,Yes,Partner,Finance,2025-04-09
+CUST00630,France,Basic,35.86,24,No,Partner,Education,2025-04-18
+CUST00631,Germany,Basic,24.47,56,No,Organic,Education,2025-03-10
+CUST00632,Australia,Enterprise,293.55,19,Yes,Partner,Education,2025-03-27
+CUST00633,France,Pro,65.87,31,No,Organic,Retail,2025-03-16
+CUST00634,France,Basic,36.07,49,No,Partner,Education,2025-04-01
+CUST00635,Australia,Pro,67.66,12,No,Paid Ads,Retail,2025-03-14
+CUST00636,Canada,Basic,27.04,49,No,Partner,Retail,2025-04-14
+CUST00637,Canada,Basic,30.03,11,No,Organic,Finance,2025-04-07
+CUST00638,Brazil,Basic,27.62,46,Yes,Referral,Education,2025-04-10
+CUST00639,Germany,Basic,28.71,30,No,Organic,Technology,2025-03-15
+CUST00640,Canada,Pro,95.99,37,No,Partner,Education,2025-04-07
+CUST00641,UK,Basic,31.2,60,No,Partner,Retail,2025-03-25
+CUST00642,Australia,Basic,34.52,59,No,Paid Ads,Technology,2025-04-05
+CUST00643,UK,Basic,22.15,4,No,Partner,Education,2025-03-26
+CUST00644,France,Basic,24.37,13,No,Referral,Finance,2025-03-07
+CUST00645,USA,Pro,77.81,42,No,Organic,Finance,2025-03-28
+CUST00646,Germany,Pro,92.28,58,No,Partner,Technology,2025-04-26
+CUST00647,USA,Basic,20.1,28,No,Referral,Education,2025-04-10
+CUST00648,France,Enterprise,322.44,13,No,Partner,Finance,2025-03-02
+CUST00649,Australia,Basic,31.46,57,No,Referral,Healthcare,2025-04-17
+CUST00650,Canada,Basic,34.5,39,No,Organic,Finance,2025-03-12
+CUST00651,Brazil,Basic,43.22,19,No,Organic,Healthcare,2025-04-20
+CUST00652,Canada,Basic,22.49,34,No,Partner,Retail,2025-03-28
+CUST00653,Brazil,Basic,28.19,17,No,Referral,Education,2025-03-11
+CUST00654,France,Basic,31.4,58,No,Organic,Technology,2025-02-27
+CUST00655,Australia,Basic,31.89,44,No,Referral,Education,2025-03-10
+CUST00656,Brazil,Basic,29.85,55,No,Paid Ads,Finance,2025-04-12
+CUST00657,Brazil,Basic,33.2,15,No,Referral,Technology,2025-04-03
+CUST00658,Canada,Enterprise,278.24,51,No,Organic,Finance,2025-03-12
+CUST00659,Brazil,Pro,79.45,51,No,Paid Ads,Finance,2025-03-12
+CUST00660,Brazil,Basic,31.43,7,No,Partner,Retail,2025-04-06
+CUST00661,UK,Basic,35.83,32,No,Referral,Healthcare,2025-04-01
+CUST00662,Brazil,Basic,28.98,3,No,Paid Ads,Technology,2025-04-26
+CUST00663,USA,Basic,33.28,16,No,Organic,Education,2025-02-26
+CUST00664,Germany,Enterprise,305.84,22,No,Partner,Technology,2025-03-09
+CUST00665,Germany,Pro,75.9,16,No,Partner,Technology,2025-03-16
+CUST00666,USA,Basic,26.26,35,No,Paid Ads,Education,2025-04-18
+CUST00667,France,Enterprise,328.59,7,Yes,Organic,Healthcare,2025-03-15
+CUST00668,Germany,Basic,32.57,36,No,Referral,Finance,2025-04-11
+CUST00669,Brazil,Pro,84.21,5,No,Paid Ads,Finance,2025-04-15
+CUST00670,Germany,Pro,74.06,1,No,Organic,Retail,2025-03-25
+CUST00671,Australia,Pro,79.73,46,No,Paid Ads,Education,2025-03-21
+CUST00672,Canada,Pro,71.18,31,No,Paid Ads,Education,2025-03-07
+CUST00673,France,Basic,30.53,45,No,Paid Ads,Education,2025-04-16
+CUST00674,Australia,Basic,29.33,19,No,Referral,Retail,2025-04-22
+CUST00675,UK,Basic,30.01,42,No,Paid Ads,Technology,2025-03-30
+CUST00676,UK,Basic,25.91,2,Yes,Paid Ads,Education,2025-03-20
+CUST00677,Australia,Basic,25.01,39,No,Organic,Technology,2025-03-15
+CUST00678,France,Basic,26.18,56,No,Paid Ads,Technology,2025-03-25
+CUST00679,Australia,Enterprise,292.06,1,No,Paid Ads,Finance,2025-04-06
+CUST00680,France,Basic,19.98,13,No,Referral,Technology,2025-03-15
+CUST00681,USA,Basic,25.73,17,No,Organic,Retail,2025-03-29
+CUST00682,USA,Pro,83.35,10,No,Referral,Finance,2025-04-13
+CUST00683,Brazil,Pro,82.1,14,No,Partner,Technology,2025-03-08
+CUST00684,France,Basic,27.54,53,No,Organic,Healthcare,2025-03-20
+CUST00685,France,Basic,24.22,23,No,Referral,Education,2025-04-22
+CUST00686,Germany,Basic,30.33,31,No,Paid Ads,Healthcare,2025-03-25
+CUST00687,UK,Basic,27.38,12,No,Partner,Retail,2025-03-29
+CUST00688,France,Basic,30.76,49,No,Organic,Finance,2025-04-03
+CUST00689,Germany,Basic,34.78,23,No,Partner,Healthcare,2025-03-01
+CUST00690,Germany,Basic,24.84,6,No,Paid Ads,Education,2025-03-18
+CUST00691,Australia,Pro,73.42,1,Yes,Paid Ads,Education,2025-03-18
+CUST00692,Brazil,Basic,28.48,34,No,Referral,Education,2025-04-24
+CUST00693,Germany,Pro,78.4,49,No,Paid Ads,Education,2025-03-10
+CUST00694,Australia,Enterprise,328.35,51,No,Organic,Education,2025-04-15
+CUST00695,Canada,Pro,55.61,27,No,Partner,Retail,2025-03-24
+CUST00696,UK,Pro,78.66,47,No,Partner,Finance,2025-03-20
+CUST00697,Canada,Pro,81.92,44,No,Organic,Retail,2025-04-01
+CUST00698,UK,Pro,80.68,25,No,Partner,Technology,2025-04-20
+CUST00699,Germany,Basic,33.08,42,No,Paid Ads,Finance,2025-03-30
+CUST00700,Brazil,Basic,36.02,39,No,Referral,Technology,2025-04-01
+CUST00701,France,Basic,22.79,14,No,Referral,Finance,2025-04-08
+CUST00702,Brazil,Basic,28.95,7,No,Paid Ads,Healthcare,2025-03-22
+CUST00703,Australia,Basic,31.63,16,No,Partner,Healthcare,2025-03-03
+CUST00704,UK,Pro,83.0,54,No,Partner,Retail,2025-03-22
+CUST00705,USA,Basic,34.85,34,No,Partner,Technology,2025-04-23
+CUST00706,Germany,Enterprise,348.07,36,No,Paid Ads,Finance,2025-03-24
+CUST00707,Australia,Basic,24.05,40,No,Referral,Retail,2025-03-14
+CUST00708,USA,Basic,38.21,21,No,Referral,Healthcare,2025-04-13
+CUST00709,Australia,Basic,21.28,53,No,Partner,Education,2025-03-17
+CUST00710,Australia,Basic,30.6,38,No,Organic,Retail,2025-04-07
+CUST00711,Germany,Basic,28.86,25,No,Paid Ads,Education,2025-04-05
+CUST00712,France,Basic,25.03,12,No,Referral,Healthcare,2025-03-17
+CUST00713,UK,Basic,32.69,60,No,Organic,Healthcare,2025-03-16
+CUST00714,USA,Pro,79.58,55,No,Paid Ads,Education,2025-03-12
+CUST00715,Australia,Pro,84.38,27,No,Referral,Retail,2025-02-27
+CUST00716,Germany,Basic,30.1,47,No,Partner,Technology,2025-03-06
+CUST00717,UK,Basic,34.9,58,No,Organic,Finance,2025-04-24
+CUST00718,USA,Pro,72.58,12,Yes,Partner,Education,2025-04-20
+CUST00719,Brazil,Basic,30.82,47,No,Referral,Technology,2025-03-11
+CUST00720,UK,Basic,30.25,8,No,Paid Ads,Finance,2025-03-24
+CUST00721,Australia,Pro,57.27,4,No,Partner,Technology,2025-03-30
+CUST00722,USA,Pro,70.64,29,No,Organic,Retail,2025-03-09
+CUST00723,Canada,Basic,29.12,26,No,Referral,Healthcare,2025-03-04
+CUST00724,Australia,Enterprise,349.84,55,No,Partner,Finance,2025-03-25
+CUST00725,Australia,Enterprise,316.11,28,No,Paid Ads,Education,2025-03-29
+CUST00726,Australia,Basic,30.26,26,No,Referral,Finance,2025-04-10
+CUST00727,Germany,Basic,36.41,45,No,Referral,Technology,2025-04-04
+CUST00728,UK,Enterprise,316.73,8,No,Partner,Technology,2025-03-29
+CUST00729,UK,Basic,24.15,49,No,Partner,Retail,2025-03-17
+CUST00730,UK,Basic,34.24,54,No,Referral,Retail,2025-03-29
+CUST00731,Germany,Pro,76.8,49,No,Referral,Retail,2025-04-17
+CUST00732,Australia,Basic,30.76,41,No,Partner,Education,2025-03-17
+CUST00733,France,Basic,30.19,15,No,Paid Ads,Retail,2025-03-24
+CUST00734,Australia,Enterprise,317.54,46,No,Partner,Finance,2025-03-01
+CUST00735,Australia,Basic,29.1,10,No,Partner,Finance,2025-03-20
+CUST00736,Brazil,Basic,36.86,3,Yes,Paid Ads,Retail,2025-03-29
+CUST00737,Australia,Basic,32.24,28,No,Organic,Finance,2025-04-06
+CUST00738,USA,Basic,31.86,4,No,Partner,Education,2025-03-25
+CUST00739,Germany,Enterprise,252.06,25,No,Paid Ads,Healthcare,2025-03-27
+CUST00740,France,Basic,32.31,38,No,Paid Ads,Healthcare,2025-03-04
+CUST00741,Australia,Enterprise,316.46,59,No,Partner,Retail,2025-03-24
+CUST00742,France,Pro,74.19,43,No,Paid Ads,Technology,2025-03-29
+CUST00743,Canada,Enterprise,280.76,8,No,Referral,Healthcare,2025-03-01
+CUST00744,Australia,Basic,32.44,30,No,Partner,Education,2025-04-18
+CUST00745,Canada,Pro,82.32,22,No,Partner,Technology,2025-03-02
+CUST00746,UK,Pro,67.97,37,Yes,Referral,Education,2025-03-09
+CUST00747,Australia,Basic,23.75,60,No,Partner,Finance,2025-03-02
+CUST00748,Canada,Basic,33.02,48,No,Referral,Technology,2025-03-18
+CUST00749,UK,Basic,29.9,13,Yes,Paid Ads,Education,2025-03-13
+CUST00750,Brazil,Enterprise,285.4,54,No,Referral,Finance,2025-04-25
+CUST00751,France,Enterprise,280.52,20,No,Partner,Education,2025-04-20
+CUST00752,Germany,Basic,36.61,35,No,Referral,Technology,2025-03-20
+CUST00753,Brazil,Basic,35.96,52,No,Referral,Education,2025-03-10
+CUST00754,USA,Basic,27.04,18,No,Partner,Healthcare,2025-04-02
+CUST00755,Brazil,Basic,30.07,11,No,Referral,Finance,2025-03-16
+CUST00756,UK,Basic,25.23,1,Yes,Organic,Education,2025-03-23
+CUST00757,France,Pro,64.6,51,No,Organic,Education,2025-04-16
+CUST00758,Germany,Basic,39.92,51,No,Referral,Healthcare,2025-03-08
+CUST00759,Canada,Basic,29.05,4,No,Paid Ads,Technology,2025-03-02
+CUST00760,UK,Pro,89.22,50,No,Referral,Finance,2025-04-02
+CUST00761,USA,Basic,27.25,39,Yes,Paid Ads,Finance,2025-03-02
+CUST00762,USA,Pro,69.74,27,No,Paid Ads,Finance,2025-03-08
+CUST00763,USA,Enterprise,221.87,24,No,Organic,Healthcare,2025-02-27
+CUST00764,UK,Basic,30.99,36,No,Partner,Retail,2025-03-12
+CUST00765,France,Pro,70.48,57,No,Paid Ads,Retail,2025-03-03
+CUST00766,Australia,Basic,32.11,52,No,Paid Ads,Healthcare,2025-03-07
+CUST00767,France,Basic,31.74,57,No,Partner,Healthcare,2025-03-13
+CUST00768,France,Basic,27.56,6,No,Paid Ads,Education,2025-04-25
+CUST00769,UK,Enterprise,278.05,20,No,Referral,Retail,2025-03-23
+CUST00770,Brazil,Basic,24.88,47,No,Organic,Technology,2025-04-10
+CUST00771,Canada,Basic,34.06,41,No,Organic,Finance,2025-03-11
+CUST00772,Germany,Basic,36.69,50,No,Paid Ads,Retail,2025-04-14
+CUST00773,Brazil,Pro,71.46,57,No,Partner,Healthcare,2025-03-10
+CUST00774,Canada,Enterprise,272.29,54,No,Referral,Retail,2025-03-24
+CUST00775,USA,Basic,31.27,8,No,Referral,Technology,2025-03-18
+CUST00776,Australia,Basic,37.84,31,No,Organic,Education,2025-04-21
+CUST00777,UK,Basic,30.67,17,No,Partner,Technology,2025-02-27
+CUST00778,Australia,Basic,21.25,57,No,Partner,Finance,2025-03-20
+CUST00779,Brazil,Enterprise,272.27,37,No,Partner,Education,2025-04-19
+CUST00780,Canada,Basic,31.65,25,No,Organic,Education,2025-04-17
+CUST00781,Canada,Enterprise,263.83,15,No,Partner,Education,2025-04-22
+CUST00782,France,Basic,29.09,1,Yes,Paid Ads,Retail,2025-03-30
+CUST00783,France,Basic,27.91,34,No,Referral,Education,2025-04-23
+CUST00784,Australia,Basic,34.71,13,No,Paid Ads,Finance,2025-03-24
+CUST00785,Australia,Pro,87.37,45,No,Partner,Healthcare,2025-03-29
+CUST00786,Australia,Basic,35.71,3,No,Referral,Retail,2025-03-06
+CUST00787,Germany,Basic,33.97,49,Yes,Organic,Finance,2025-03-02
+CUST00788,Canada,Pro,77.8,40,No,Partner,Education,2025-03-20
+CUST00789,Canada,Pro,80.54,6,No,Organic,Education,2025-04-19
+CUST00790,Germany,Enterprise,387.7,19,No,Paid Ads,Healthcare,2025-03-12
+CUST00791,Brazil,Basic,24.82,48,No,Referral,Education,2025-04-23
+CUST00792,UK,Basic,29.76,12,No,Organic,Education,2025-02-27
+CUST00793,France,Pro,85.8,44,No,Referral,Finance,2025-04-19
+CUST00794,USA,Pro,90.11,51,No,Organic,Healthcare,2025-03-11
+CUST00795,UK,Basic,32.13,50,No,Paid Ads,Healthcare,2025-03-15
+CUST00796,France,Enterprise,294.5,18,No,Referral,Retail,2025-04-19
+CUST00797,France,Basic,23.87,12,No,Referral,Education,2025-03-06
+CUST00798,Australia,Basic,27.83,57,No,Paid Ads,Finance,2025-03-21
+CUST00799,Canada,Pro,72.71,50,No,Partner,Finance,2025-03-16
+CUST00800,Germany,Pro,67.22,5,Yes,Referral,Healthcare,2025-03-21
+CUST00801,France,Basic,30.82,20,No,Partner,Technology,2025-03-24
+CUST00802,Brazil,Pro,79.59,14,No,Paid Ads,Finance,2025-03-13
+CUST00803,France,Pro,84.24,41,No,Organic,Technology,2025-03-21
+CUST00804,Germany,Basic,29.16,29,No,Referral,Retail,2025-04-08
+CUST00805,Australia,Basic,31.94,41,No,Organic,Retail,2025-03-14
+CUST00806,Brazil,Pro,80.39,41,No,Paid Ads,Technology,2025-04-26
+CUST00807,Australia,Basic,30.87,34,No,Paid Ads,Finance,2025-04-21
+CUST00808,UK,Basic,26.49,60,No,Partner,Retail,2025-04-19
+CUST00809,France,Pro,82.86,27,No,Paid Ads,Technology,2025-03-17
+CUST00810,Germany,Enterprise,268.0,27,No,Organic,Technology,2025-04-03
+CUST00811,Germany,Pro,71.14,2,No,Organic,Healthcare,2025-03-19
+CUST00812,Canada,Basic,29.54,3,No,Partner,Healthcare,2025-04-20
+CUST00813,Australia,Basic,39.74,6,No,Organic,Technology,2025-03-12
+CUST00814,Germany,Basic,27.21,60,Yes,Referral,Retail,2025-04-17
+CUST00815,Germany,Basic,29.33,53,No,Referral,Retail,2025-03-31
+CUST00816,France,Pro,69.93,48,Yes,Paid Ads,Technology,2025-02-26
+CUST00817,USA,Pro,65.55,45,No,Organic,Healthcare,2025-04-10
+CUST00818,UK,Basic,37.15,4,No,Organic,Technology,2025-03-10
+CUST00819,USA,Basic,33.79,32,No,Organic,Healthcare,2025-04-18
+CUST00820,USA,Enterprise,343.77,17,No,Referral,Healthcare,2025-04-17
+CUST00821,Canada,Pro,87.28,21,No,Paid Ads,Healthcare,2025-03-08
+CUST00822,UK,Basic,28.39,15,No,Partner,Healthcare,2025-03-30
+CUST00823,Brazil,Basic,31.32,41,No,Partner,Healthcare,2025-03-04
+CUST00824,USA,Pro,64.76,40,No,Paid Ads,Education,2025-03-11
+CUST00825,USA,Pro,79.26,46,No,Paid Ads,Technology,2025-04-26
+CUST00826,Germany,Basic,28.79,40,No,Paid Ads,Finance,2025-03-29
+CUST00827,Brazil,Basic,32.3,16,No,Organic,Retail,2025-03-06
+CUST00828,UK,Enterprise,259.51,10,No,Partner,Technology,2025-03-02
+CUST00829,Germany,Basic,20.86,56,No,Partner,Finance,2025-04-24
+CUST00830,Canada,Pro,79.45,1,No,Partner,Education,2025-04-16
+CUST00831,Canada,Enterprise,329.33,17,No,Referral,Finance,2025-03-08
+CUST00832,France,Basic,26.24,25,No,Organic,Retail,2025-03-30
+CUST00833,Brazil,Pro,89.99,59,No,Partner,Technology,2025-04-22
+CUST00834,Brazil,Basic,28.81,36,No,Organic,Finance,2025-03-23
+CUST00835,Canada,Basic,28.02,22,No,Organic,Retail,2025-03-18
+CUST00836,Australia,Basic,36.98,13,No,Organic,Healthcare,2025-03-22
+CUST00837,Australia,Basic,29.93,4,Yes,Organic,Finance,2025-04-21
+CUST00838,France,Basic,26.55,3,No,Organic,Healthcare,2025-04-02
+CUST00839,Germany,Pro,73.01,48,No,Paid Ads,Technology,2025-03-26
+CUST00840,Canada,Pro,75.08,28,No,Organic,Finance,2025-04-15
+CUST00841,Australia,Pro,85.71,35,No,Referral,Finance,2025-04-19
+CUST00842,Brazil,Basic,34.84,12,No,Referral,Technology,2025-04-01
+CUST00843,Australia,Basic,19.28,58,No,Referral,Finance,2025-04-05
+CUST00844,UK,Pro,85.33,55,No,Paid Ads,Technology,2025-03-19
+CUST00845,Canada,Pro,85.69,49,No,Partner,Education,2025-03-26
+CUST00846,UK,Enterprise,336.98,33,No,Organic,Technology,2025-03-19
+CUST00847,Australia,Enterprise,309.25,5,No,Paid Ads,Healthcare,2025-04-03
+CUST00848,Australia,Pro,58.43,23,No,Partner,Retail,2025-04-17
+CUST00849,UK,Basic,18.39,32,No,Partner,Technology,2025-03-14
+CUST00850,UK,Basic,24.67,23,No,Partner,Healthcare,2025-04-08
+CUST00851,Canada,Pro,80.98,44,No,Referral,Healthcare,2025-04-22
+CUST00852,Canada,Basic,35.6,33,No,Partner,Finance,2025-04-21
+CUST00853,Brazil,Basic,32.86,58,No,Paid Ads,Education,2025-03-02
+CUST00854,Brazil,Basic,31.74,36,No,Paid Ads,Healthcare,2025-04-11
+CUST00855,USA,Basic,25.51,47,No,Partner,Healthcare,2025-04-26
+CUST00856,Australia,Basic,27.45,15,No,Paid Ads,Healthcare,2025-03-01
+CUST00857,Canada,Basic,29.8,33,No,Referral,Finance,2025-04-05
+CUST00858,UK,Basic,31.11,10,No,Organic,Healthcare,2025-03-10
+CUST00859,Brazil,Pro,73.82,13,No,Referral,Retail,2025-03-20
+CUST00860,Australia,Pro,69.38,48,No,Paid Ads,Retail,2025-03-06
+CUST00861,UK,Pro,87.58,39,No,Partner,Technology,2025-03-04
+CUST00862,Australia,Pro,79.92,7,No,Organic,Retail,2025-03-11
+CUST00863,Canada,Pro,90.92,39,No,Paid Ads,Healthcare,2025-04-13
+CUST00864,Canada,Basic,33.58,17,No,Referral,Education,2025-03-19
+CUST00865,USA,Pro,89.37,43,No,Paid Ads,Finance,2025-03-14
+CUST00866,France,Basic,28.88,25,No,Organic,Healthcare,2025-04-22
+CUST00867,Canada,Pro,77.75,22,No,Paid Ads,Healthcare,2025-04-22
+CUST00868,Canada,Basic,38.13,51,No,Referral,Education,2025-04-03
+CUST00869,Germany,Basic,36.66,41,No,Partner,Technology,2025-04-22
+CUST00870,France,Basic,30.22,53,No,Referral,Education,2025-04-21
+CUST00871,UK,Pro,66.62,40,No,Referral,Technology,2025-03-28
+CUST00872,Germany,Basic,29.56,57,No,Partner,Retail,2025-04-02
+CUST00873,Brazil,Basic,31.46,20,No,Partner,Education,2025-04-25
+CUST00874,Canada,Basic,30.04,29,No,Referral,Education,2025-03-25
+CUST00875,Germany,Basic,33.52,55,No,Organic,Technology,2025-04-06
+CUST00876,Brazil,Basic,37.45,52,Yes,Paid Ads,Finance,2025-04-05
+CUST00877,USA,Basic,29.08,2,No,Referral,Technology,2025-04-10
+CUST00878,Australia,Basic,33.26,28,No,Partner,Education,2025-03-09
+CUST00879,Canada,Basic,21.7,58,No,Paid Ads,Education,2025-04-24
+CUST00880,Canada,Pro,98.2,39,No,Partner,Technology,2025-03-24
+CUST00881,Brazil,Pro,71.99,28,No,Paid Ads,Healthcare,2025-03-24
+CUST00882,Australia,Pro,95.06,29,No,Referral,Education,2025-04-09
+CUST00883,Brazil,Basic,23.69,26,No,Partner,Healthcare,2025-03-25
+CUST00884,Germany,Basic,39.95,22,No,Paid Ads,Education,2025-03-18
+CUST00885,Canada,Basic,38.2,16,No,Paid Ads,Technology,2025-03-01
+CUST00886,Germany,Basic,26.72,40,No,Paid Ads,Technology,2025-04-08
+CUST00887,France,Pro,83.99,11,No,Organic,Technology,2025-04-12
+CUST00888,USA,Basic,33.28,2,Yes,Organic,Retail,2025-03-03
+CUST00889,Brazil,Basic,32.83,49,No,Organic,Healthcare,2025-03-04
+CUST00890,Canada,Pro,79.39,47,No,Paid Ads,Retail,2025-04-20
+CUST00891,France,Pro,81.6,32,No,Paid Ads,Retail,2025-03-21
+CUST00892,Canada,Pro,64.69,13,No,Partner,Education,2025-04-01
+CUST00893,USA,Pro,78.43,55,No,Partner,Healthcare,2025-04-11
+CUST00894,USA,Basic,36.54,37,No,Organic,Technology,2025-03-09
+CUST00895,Australia,Basic,29.05,22,Yes,Partner,Retail,2025-03-08
+CUST00896,USA,Pro,65.13,35,No,Referral,Technology,2025-04-25
+CUST00897,UK,Pro,83.73,25,No,Organic,Technology,2025-03-23
+CUST00898,Brazil,Pro,84.71,40,No,Partner,Finance,2025-04-11
+CUST00899,USA,Basic,26.65,8,No,Organic,Technology,2025-04-20
+CUST00900,Canada,Basic,31.38,38,No,Paid Ads,Finance,2025-04-20
+CUST00901,Australia,Enterprise,334.84,32,No,Referral,Education,2025-03-16
+CUST00902,UK,Basic,25.94,27,No,Partner,Retail,2025-04-05
+CUST00903,UK,Basic,24.92,52,No,Partner,Healthcare,2025-02-28
+CUST00904,Australia,Pro,77.56,54,No,Paid Ads,Finance,2025-04-09
+CUST00905,UK,Basic,23.99,38,Yes,Organic,Retail,2025-03-09
+CUST00906,USA,Enterprise,320.76,49,No,Partner,Healthcare,2025-04-10
+CUST00907,Germany,Basic,31.93,35,No,Partner,Retail,2025-03-17
+CUST00908,France,Basic,35.45,10,No,Organic,Finance,2025-03-22
+CUST00909,USA,Basic,36.73,2,No,Partner,Healthcare,2025-03-06
+CUST00910,France,Basic,34.0,20,No,Referral,Technology,2025-03-31
+CUST00911,Brazil,Pro,65.13,28,No,Organic,Technology,2025-03-09
+CUST00912,USA,Basic,23.01,51,No,Paid Ads,Finance,2025-04-10
+CUST00913,Brazil,Basic,29.4,38,No,Partner,Education,2025-03-13
+CUST00914,USA,Basic,35.62,11,No,Organic,Education,2025-04-21
+CUST00915,Australia,Basic,31.01,23,No,Organic,Finance,2025-04-01
+CUST00916,Brazil,Pro,86.52,41,No,Referral,Retail,2025-03-09
+CUST00917,Canada,Basic,33.75,1,Yes,Paid Ads,Healthcare,2025-03-04
+CUST00918,USA,Pro,85.99,22,No,Referral,Finance,2025-03-08
+CUST00919,Australia,Basic,29.1,40,No,Paid Ads,Technology,2025-04-11
+CUST00920,Brazil,Enterprise,261.96,3,No,Partner,Technology,2025-03-23
+CUST00921,UK,Enterprise,306.44,49,No,Partner,Finance,2025-03-13
+CUST00922,Brazil,Enterprise,329.07,26,No,Organic,Technology,2025-04-05
+CUST00923,France,Basic,38.14,29,No,Referral,Retail,2025-04-22
+CUST00924,USA,Basic,33.78,20,No,Partner,Finance,2025-04-25
+CUST00925,Brazil,Pro,68.69,45,No,Organic,Education,2025-03-07
+CUST00926,Australia,Pro,86.23,27,No,Partner,Education,2025-04-21
+CUST00927,USA,Basic,31.44,8,No,Referral,Healthcare,2025-04-15
+CUST00928,Germany,Pro,80.75,46,No,Paid Ads,Education,2025-03-14
+CUST00929,Australia,Basic,28.97,50,No,Partner,Healthcare,2025-04-10
+CUST00930,Canada,Basic,26.27,59,No,Partner,Retail,2025-04-03
+CUST00931,Brazil,Basic,21.49,40,No,Referral,Finance,2025-04-15
+CUST00932,France,Pro,75.37,29,No,Organic,Retail,2025-03-16
+CUST00933,UK,Basic,26.15,13,No,Paid Ads,Healthcare,2025-03-29
+CUST00934,France,Basic,23.52,22,No,Paid Ads,Healthcare,2025-03-10
+CUST00935,UK,Pro,75.11,31,No,Referral,Retail,2025-04-20
+CUST00936,USA,Basic,28.61,32,No,Organic,Education,2025-04-02
+CUST00937,Germany,Basic,26.47,24,No,Referral,Education,2025-03-17
+CUST00938,USA,Basic,35.04,23,No,Paid Ads,Retail,2025-04-25
+CUST00939,Canada,Basic,34.58,42,No,Partner,Healthcare,2025-03-23
+CUST00940,Australia,Basic,27.25,22,No,Partner,Retail,2025-04-25
+CUST00941,USA,Basic,35.65,15,No,Organic,Education,2025-03-20
+CUST00942,Australia,Basic,33.41,55,No,Organic,Technology,2025-03-05
+CUST00943,Australia,Enterprise,291.63,27,No,Referral,Healthcare,2025-03-30
+CUST00944,USA,Basic,34.23,9,No,Referral,Healthcare,2025-04-02
+CUST00945,Germany,Basic,27.88,35,No,Organic,Technology,2025-03-02
+CUST00946,Canada,Basic,35.18,39,No,Paid Ads,Healthcare,2025-04-09
+CUST00947,Canada,Pro,77.57,17,No,Paid Ads,Education,2025-03-13
+CUST00948,UK,Basic,28.5,13,No,Referral,Healthcare,2025-04-12
+CUST00949,Canada,Basic,23.83,39,No,Organic,Finance,2025-03-02
+CUST00950,Germany,Pro,86.61,59,No,Referral,Healthcare,2025-03-28
+CUST00951,UK,Basic,27.06,28,No,Partner,Retail,2025-03-17
+CUST00952,UK,Basic,25.81,16,No,Referral,Finance,2025-03-04
+CUST00953,France,Enterprise,302.02,57,No,Partner,Technology,2025-03-10
+CUST00954,Australia,Basic,32.23,10,No,Paid Ads,Healthcare,2025-03-23
+CUST00955,USA,Basic,35.9,5,Yes,Paid Ads,Education,2025-03-19
+CUST00956,USA,Pro,81.94,41,No,Partner,Education,2025-02-28
+CUST00957,Brazil,Basic,42.65,4,Yes,Partner,Education,2025-04-06
+CUST00958,Germany,Pro,86.24,50,No,Referral,Healthcare,2025-03-11
+CUST00959,Brazil,Basic,26.16,1,No,Paid Ads,Education,2025-03-25
+CUST00960,UK,Basic,25.62,58,No,Paid Ads,Healthcare,2025-03-09
+CUST00961,UK,Enterprise,304.26,59,No,Paid Ads,Healthcare,2025-04-01
+CUST00962,UK,Enterprise,317.24,39,Yes,Referral,Healthcare,2025-03-10
+CUST00963,Australia,Pro,88.65,54,No,Paid Ads,Education,2025-03-30
+CUST00964,Germany,Basic,37.59,39,No,Referral,Healthcare,2025-04-11
+CUST00965,UK,Basic,28.92,43,Yes,Organic,Technology,2025-03-04
+CUST00966,Canada,Basic,39.26,55,No,Paid Ads,Technology,2025-03-11
+CUST00967,USA,Basic,28.11,44,No,Partner,Finance,2025-03-04
+CUST00968,Germany,Basic,40.13,52,No,Referral,Retail,2025-03-06
+CUST00969,Brazil,Pro,86.49,16,No,Partner,Healthcare,2025-04-06
+CUST00970,Canada,Basic,33.79,33,No,Referral,Finance,2025-03-06
+CUST00971,UK,Enterprise,326.43,42,No,Paid Ads,Healthcare,2025-04-04
+CUST00972,Brazil,Pro,95.56,43,No,Partner,Retail,2025-03-07
+CUST00973,Germany,Basic,35.64,40,No,Partner,Technology,2025-03-11
+CUST00974,Germany,Basic,30.89,50,No,Partner,Technology,2025-03-05
+CUST00975,USA,Pro,71.66,49,No,Referral,Technology,2025-04-16
+CUST00976,Australia,Basic,29.3,49,No,Organic,Retail,2025-04-26
+CUST00977,Brazil,Basic,30.6,59,No,Paid Ads,Education,2025-03-06
+CUST00978,Canada,Pro,75.99,38,No,Organic,Technology,2025-03-22
+CUST00979,France,Pro,81.61,22,No,Partner,Education,2025-03-29
+CUST00980,Brazil,Basic,42.67,58,No,Partner,Retail,2025-04-14
+CUST00981,USA,Pro,59.39,60,No,Organic,Education,2025-04-06
+CUST00982,Canada,Basic,32.9,35,No,Paid Ads,Healthcare,2025-03-13
+CUST00983,UK,Basic,30.1,12,No,Partner,Healthcare,2025-03-05
+CUST00984,Brazil,Basic,31.15,4,Yes,Paid Ads,Education,2025-03-12
+CUST00985,USA,Basic,33.99,31,No,Partner,Retail,2025-04-16
+CUST00986,UK,Enterprise,270.39,25,No,Partner,Retail,2025-04-10
+CUST00987,USA,Basic,31.32,40,No,Paid Ads,Education,2025-04-26
+CUST00988,UK,Enterprise,321.76,5,No,Referral,Healthcare,2025-03-23
+CUST00989,Brazil,Enterprise,294.13,41,No,Paid Ads,Technology,2025-04-22
+CUST00990,Germany,Basic,37.39,34,No,Referral,Healthcare,2025-03-10
+CUST00991,USA,Basic,25.97,48,No,Partner,Healthcare,2025-03-29
+CUST00992,UK,Basic,35.06,25,No,Organic,Education,2025-04-14
+CUST00993,USA,Enterprise,330.56,52,No,Organic,Retail,2025-04-18
+CUST00994,Brazil,Pro,82.91,33,No,Referral,Retail,2025-03-16
+CUST00995,France,Pro,87.76,24,No,Paid Ads,Finance,2025-03-12
+CUST00996,Australia,Basic,36.86,49,Yes,Paid Ads,Technology,2025-03-11
+CUST00997,Canada,Basic,30.22,21,No,Referral,Technology,2025-04-05
+CUST00998,Germany,Basic,28.72,23,No,Partner,Finance,2025-03-31
+CUST00999,Brazil,Basic,33.32,8,No,Partner,Finance,2025-04-26
+CUST01000,Canada,Pro,80.91,5,Yes,Partner,Healthcare,2025-04-15
